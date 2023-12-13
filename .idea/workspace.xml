@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="575c57c0-0188-4578-89e4-83359d8badd2" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/Ability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/Capable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/exception/First.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/exception/ThrowException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/java8features/InterfaceExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/java8features/InterfaceExampleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/java8features/LambdaInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/java8features/LambdaInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/alfred/java8features/LambdaTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/Delta.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/InstanceVariable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/MethodExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/OperatorJava.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/StaticMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/StaticVariableExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/arrays/Array1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/arrays/Array3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericInterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericMethodType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericMethodWithSpecificType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/GenericRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/boundtypegenerics/BoundedInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/boundtypegenerics/BoundedTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/boundtypegenerics/StudentInterviewQuestion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/nonGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/generical/nonGenericInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/C.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/Staffs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/TestAB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/TestCustomer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/inheritanceexamples/TestStaffContact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/AnotherExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/ConcreteClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/DbConnection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/ImplInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceAImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceAImplA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceImpl23.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/InterfaceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/Mysql.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/OracleDb.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interfacesample/ThirdExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/interviewquizz/ProblemOne.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/mapflatmap/ClientDetailDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/mapflatmap/ClientDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/mapflatmap/DatabaseStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/mapflatmap/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/polymorhicthings/MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/polymorhicthings/Sbi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/polymorhicthings/methodOverriding.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/polymorhicthings/rateOfInterest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/shiftops/OperationShift.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/singletondemo/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/singletondemo/SingletonDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/singletondemo/SingletonTake2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/singletondemo/UsingEnumInSingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/superthiskeyword/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/superthiskeyword/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/bate/superthiskeyword/TestThisSuper.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2YdyMNbJJa3ePAnQLReQNDHEIGd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.alfred.java8features" />
+      <recent name="org.bate.generical" />
+      <recent name="org.bate.interfacesample" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="org.bate.inheritanceexamples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Array3">
+    <configuration name="Array1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bate.arrays.Array1" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bate.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bate.arrays.Array3" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bate.arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DatabaseStudents" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bate.mapflatmap.DatabaseStudents" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bate.mapflatmap.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LambdaInterfaceImpl" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.alfred.java8features.LambdaInterfaceImpl" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.alfred.java8features.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SingletonDatabase$SingletonDb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.bate.singletondemo.SingletonDatabase$SingletonDb" />
+      <module name="myfirstproject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.bate.singletondemo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Array3" />
+        <item itemvalue="Application.Array1" />
+        <item itemvalue="Application.LambdaInterfaceImpl" />
+        <item itemvalue="Application.SingletonDatabase$SingletonDb" />
+        <item itemvalue="Application.DatabaseStudents" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="575c57c0-0188-4578-89e4-83359d8badd2" name="Changes" comment="" />
+      <created>1700869706590</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1700869706590</updated>
+    </task>
+    <servers />
+  </component>
+</project>
